@@ -6,7 +6,7 @@ It integrates "Don't Break the Chain" method for habit building into [todoist](h
     <img src="https://i.imgur.com/PVp2TBs.png"/>
 </p>
 
-## Usage
+## Usage-
 
 ![Habitist Screenshot](https://i.imgur.com/q4h2QGv.png)
 
